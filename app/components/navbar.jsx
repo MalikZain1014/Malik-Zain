@@ -1,6 +1,6 @@
 // @flow strict
 import Link from "next/link";
-import image from "../../app/favicon.ico";
+import image from "./logo.png";
 import Image from "next/image";
 function Navbar() {
   return (
