@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Bachelor of Science in Computer Science (BSCS)",
     duration: "March 2020 - March 2024",
-    institution: "University of Okara",
+    institution: "University of Okara | Okara",
   },
   {
     id: 2,
@@ -15,6 +15,6 @@ export const educations = [
     id: 3,
     title: "Secondary School Certificate",
     duration: "2006 - 2017",
-    institution: "The Pakpattan Public High School",
+    institution: "The Pakpattan Public High School | Pakpattan",
   },
 ];

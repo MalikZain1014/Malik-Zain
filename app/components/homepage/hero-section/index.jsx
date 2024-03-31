@@ -122,9 +122,9 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Node JS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
+                <span className="text-amber-300">Javascript</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">Express js</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Tailwind CSS</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -132,7 +132,13 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Next Js</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Javascript</span>
+                <span className="text-amber-300">Redux</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">strapi</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Git</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">postgresql</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">bootstrap</span>
                 <span className="text-gray-400">{"'],"}</span>

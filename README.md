@@ -1,29 +1,24 @@
 # Developer Portfolio
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
-
 ---
 
 # Demo :movie_camera:
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://malikzain.netlify.app/).
 
----
-
-## Table of Contents :scroll:
-
+<!--
 - [Sections](#sections-bookmark)
 - [Demo](#demo-movie_camera)
 - [Installation](#installation-arrow_down)
 - [Getting Started](#getting-started-dart)
 - [Usage](#usage-joystick)
-- [Packages Used](#packages-used-package)
+- [Packages Used](#packages-used-package) -->
 
 ---
 
-# Sections :bookmark:
+<!-- # Sections :bookmark:
 
 - HERO SECTION
 - ABOUT ME
@@ -34,7 +29,7 @@
 - BLOG
 - CONTACTS
 
----
+--- -->
 
 # Installation :arrow_down:
 
@@ -82,22 +77,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
-
-# Usage :joystick:
-
-Goto [emailjs.com](https://www.emailjs.com/) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `.env.example` file.
-
-Eg:
-
-```env
-NEXT_PUBLIC_EMAILJS_SERVICE_ID =
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
-```
-
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
-
 Eg:
 
 ```javascript
@@ -113,20 +92,13 @@ export const personalData = {
   github: "https://github.com/MalikZain1014/",
   facebook: "https://www.facebook.com/malikzain.zain.5076/",
   linkedIn: "www.linkedin.com/in/malik-zain-a60a172b8/",
-  twitter: "https://twitter.com/said7388",
+  twitter: "https://twitter.com/MalikZa03337218",
   stackOverflow: "https://stackoverflow.com/users/23572334/malik-zain/",
   leetcode: "https://leetcode.com/MalikZain1014/",
   devUsername: "Malik_Z",
   resume:
     "https://drive.google.com/file/d/1naVs9GcAcH3UAYzsOwYOr_UjszWNBMPR/view?usp=sharing",
 };
-```
-
-`devUsername` Used for fetching blog from `dev.to`.
-
----
-
----
 
 # Packages Used :package:
 
@@ -142,3 +114,4 @@ export const personalData = {
 |    tailwindcss     |
 
 ---
+```

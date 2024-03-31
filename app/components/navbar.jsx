@@ -7,8 +7,16 @@ function Navbar() {
     <nav className="bg-transparent">
       <div className="flex items-center justify-between py-5">
         <div className="flex flex-shrink-0 items-center">
-          <Link href="/" className=" text-[#16f2b3] text-3xl font-bold">
-            <Image width={40} height={40} src={image} alt="favicon" />
+          <Link href="/" className="text-[#16f2b3] text-3xl font-bold">
+            <div>
+              <Image
+                width={40}
+                height={40}
+                className="transition-transform duration-400 transform hover:scale-90"
+                src={image}
+                alt="logo"
+              />
+            </div>
           </Link>
         </div>
 
