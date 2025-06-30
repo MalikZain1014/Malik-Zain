@@ -10,8 +10,8 @@ function Navbar() {
           <Link href="/" className="text-[#16f2b3] text-3xl font-bold">
             <div>
               <Image
-                width={40}
-                height={40}
+                width={100}
+                height={100}
                 className="transition-transform duration-400 transform hover:scale-90"
                 src={image}
                 alt="logo"
